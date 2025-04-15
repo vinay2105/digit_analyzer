@@ -1,0 +1,8 @@
+numpy
+opencv_contrib_python
+opencv_python
+opencv_python_headless
+streamlit
+streamlit_drawable_canvas
+tensorflow
+tensorflow_intel
