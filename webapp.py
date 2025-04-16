@@ -8,7 +8,7 @@ st.set_page_config(page_title="Digit Recognition", layout="centered")
 
 @st.cache_resource
 def load_my_model():
-    return load_model('cnn_mnist_model.h5')
+    return load_model('cnn_mnist_model_new.h5')
 
 model = load_my_model()
 
